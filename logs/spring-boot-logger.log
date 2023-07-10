@@ -1,0 +1,61 @@
+2021-05-08 10:19:57,714 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting HotelBookingApplication using Java 1.8.0_281 on LAPTOP-R22M7JRN with PID 7396 (C:\Users\vijay\eclipse-workspace\HotelBookingApplication\target\classes started by vijay in C:\Users\vijay\eclipse-workspace\HotelBookingApplication)
+2021-05-08 10:19:57,716 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-05-08 10:19:58,240 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-05-08 10:19:58,280 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 39 ms. Found 6 JPA repository interfaces.
+2021-05-08 10:19:58,493 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8082 (http)
+2021-05-08 10:19:58,494 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2021-05-08 10:19:58,495 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.45]
+2021-05-08 10:19:58,511 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-05-08 10:19:58,511 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 785 ms
+2021-05-08 10:19:58,570 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-05-08 10:19:58,577 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-5 - Starting...
+2021-05-08 10:19:58,577 WARN com.zaxxer.hikari.util.DriverDataSource [restartedMain] Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation.
+2021-05-08 10:19:58,599 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-5 - Start completed.
+2021-05-08 10:19:58,600 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2021-05-08 10:19:58,786 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-05-08 10:19:58,787 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-05-08 10:19:58,804 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2021-05-08 10:19:59,195 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-05-08 10:19:59,260 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2021-05-08 10:19:59,325 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-08 10:19:59,410 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8082 (http) with context path ''
+2021-05-08 10:19:59,411 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2021-05-08 10:19:59,412 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2021-05-08 10:19:59,419 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2021-05-08 10:19:59,490 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started HotelBookingApplication in 1.993 seconds (JVM running for 1054.914)
+2021-05-08 10:19:59,493 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2021-05-08 10:23:05,403 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [Thread-34] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-05-08 10:23:05,406 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [Thread-34] Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-05-08 10:23:05,408 INFO com.zaxxer.hikari.HikariDataSource [Thread-34] HikariPool-5 - Shutdown initiated...
+2021-05-08 10:23:05,417 INFO com.zaxxer.hikari.HikariDataSource [Thread-34] HikariPool-5 - Shutdown completed.
+2021-05-08 10:23:05,727 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting HotelBookingApplication using Java 1.8.0_281 on LAPTOP-R22M7JRN with PID 7396 (C:\Users\vijay\eclipse-workspace\HotelBookingApplication\target\classes started by vijay in C:\Users\vijay\eclipse-workspace\HotelBookingApplication)
+2021-05-08 10:23:05,728 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-05-08 10:23:06,164 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-05-08 10:23:06,202 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 37 ms. Found 6 JPA repository interfaces.
+2021-05-08 10:23:06,374 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8082 (http)
+2021-05-08 10:23:06,375 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2021-05-08 10:23:06,376 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.45]
+2021-05-08 10:23:06,393 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-05-08 10:23:06,393 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 662 ms
+2021-05-08 10:23:06,442 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-05-08 10:23:06,449 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-6 - Starting...
+2021-05-08 10:23:06,449 WARN com.zaxxer.hikari.util.DriverDataSource [restartedMain] Registered driver with driverClassName=oracle.jdbc.driver.OracleDriver was not found, trying direct instantiation.
+2021-05-08 10:23:06,470 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-6 - Start completed.
+2021-05-08 10:23:06,471 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2021-05-08 10:23:06,645 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-05-08 10:23:06,646 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-05-08 10:23:06,663 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2021-05-08 10:23:06,988 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-05-08 10:23:07,073 INFO springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping [restartedMain] Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2021-05-08 10:23:07,119 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2021-05-08 10:23:07,207 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8082 (http) with context path ''
+2021-05-08 10:23:07,208 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2021-05-08 10:23:07,209 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2021-05-08 10:23:07,213 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2021-05-08 10:23:07,277 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started HotelBookingApplication in 1.594 seconds (JVM running for 1242.701)
+2021-05-08 10:23:07,280 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2021-05-08 10:23:25,863 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(2)-127.0.0.1] Application shutdown requested.
+2021-05-08 10:23:26,234 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [RMI TCP Connection(2)-127.0.0.1] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-05-08 10:23:26,238 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [RMI TCP Connection(2)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-05-08 10:23:26,243 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(2)-127.0.0.1] HikariPool-6 - Shutdown initiated...
+2021-05-08 10:23:26,255 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(2)-127.0.0.1] HikariPool-6 - Shutdown completed.
